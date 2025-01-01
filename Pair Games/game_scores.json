@@ -132,193 +132,45 @@
         "time_spent": 52
     },
     {
-        "player_name": "fatima",
-        "score": 0,
-        "difficulty": "Easy",
-        "time_spent": 180
-    },
-    {
-        "player_name": "leila",
-        "score": 0,
-        "difficulty": "Intermediate",
-        "time_spent": 4
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Easy",
-        "time_spent": 39
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 30
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 36
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 30
-    },
-    {
-        "player_name": "leila",
-        "score": 80,
-        "difficulty": "Intermediate",
-        "time_spent": 60
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 27
-    },
-    {
-        "player_name": "leila",
-        "score": 80,
-        "difficulty": "Intermediate",
-        "time_spent": 55
-    },
-    {
-        "player_name": "",
+        "player_name": "rere",
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 36
     },
     {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 34
-    },
-    {
-        "player_name": "leila",
-        "score": 80,
-        "difficulty": "Intermediate",
-        "time_spent": 59
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 28
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 54
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 31
-    },
-    {
-        "player_name": "",
+        "player_name": "nami",
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 27
     },
     {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 31
-    },
-    {
-        "player_name": "leila",
-        "score": 80,
-        "difficulty": "Intermediate",
-        "time_spent": 73
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Easy",
-        "time_spent": 23
-    },
-    {
-        "player_name": "leila",
+        "player_name": "nami",
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 32
     },
+   
     {
         "player_name": "leila",
         "score": 60,
         "difficulty": "Intermediate",
-        "time_spent": 26
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Easy",
-        "time_spent": 47
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 31
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 30
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Easy",
         "time_spent": 28
     },
+   
     {
-        "player_name": "leila",
+        "player_name": "anna",
         "score": 60,
         "difficulty": "Intermediate",
         "time_spent": 25
     },
     {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Easy",
-        "time_spent": 35
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 24
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 31
-    },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Intermediate",
-        "time_spent": 25
-    },
-    {
-        "player_name": "leila",
+        "player_name": "emma",
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 23
     },
     {
-        "player_name": "leila",
+        "player_name": "alexa",
         "score": 60,
         "difficulty": "Intermediate",
         "time_spent": 34
@@ -326,15 +178,10 @@
     {
         "player_name": "leila",
         "score": 60,
-        "difficulty": "Easy",
+        "difficulty": "Hard",
         "time_spent": 28
     },
-    {
-        "player_name": "leila",
-        "score": 60,
-        "difficulty": "Easy",
-        "time_spent": 23
-    },
+   
     {
         "player_name": "lala",
         "score": 60,
@@ -342,25 +189,25 @@
         "time_spent": 38
     },
     {
-        "player_name": "",
+        "player_name": "amina",
         "score": 0,
         "difficulty": "Intermediate",
         "time_spent": 180
     },
     {
-        "player_name": "",
+        "player_name": "ruru",
         "score": 10,
         "difficulty": "Easy",
         "time_spent": 180
     },
     {
-        "player_name": "",
+        "player_name": "jali",
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 26
     },
     {
-        "player_name": "",
+        "player_name": "bilal",
         "score": 0,
         "difficulty": "Easy",
         "time_spent": 180
@@ -372,19 +219,19 @@
         "time_spent": 180
     },
     {
-        "player_name": "",
+        "player_name": "amal",
         "score": 0,
         "difficulty": "Easy",
         "time_spent": 180
     },
     {
-        "player_name": "",
+        "player_name": "bina",
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 27
     },
     {
-        "player_name": "",
+        "player_name": "sama",
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 32
@@ -396,7 +243,7 @@
         "time_spent": 22
     },
     {
-        "player_name": "",
+        "player_name": "kinan",
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 51
@@ -406,5 +253,23 @@
         "score": 60,
         "difficulty": "Easy",
         "time_spent": 33
+    },
+    {
+        "player_name": "alexa",
+        "score": 60,
+        "difficulty": "Easy",
+        "time_spent": 52
+    },
+    {
+        "player_name": "ouma",
+        "score": 60,
+        "difficulty": "Easy",
+        "time_spent": 29
+    },
+    {
+        "player_name": "fatima",
+        "score": 60,
+        "difficulty": "Intermediate",
+        "time_spent": 19
     }
 ]
