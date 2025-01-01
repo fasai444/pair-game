@@ -1,0 +1,47 @@
+[
+    {
+        "username": "test_user",
+        "password": "test_password",
+        "current_level": 3
+    },
+    {
+        "username": "fatima",
+        "password": "$2b$12$sXiAj85v.vwFVdJLEf43auUYLkUx2e8sMcqcGCeVUH6aIhCQlava.",
+        "current_level": 2
+    },
+    {
+        "username": "leila",
+        "password": "$2b$12$rPdz7uri195KoQJjWJbNG.ZKhaFwk.cQAgqDvTSvVZv.RzHBrLn6G",
+        "current_level": 3
+    },
+    {
+        "username": "lala",
+        "password": "$2b$12$901TjazWTNhrtL5hgNE65OiRShXgPLywFn5Luj.l5JAoSHZVmRgsG",
+        "current_level": 3
+    },
+    {
+        "username": "sana",
+        "password": "$2b$12$xxP7oXrJHunfdObHAlCzoOahAsfUpBhdPw/5ynGx/64Zck3B2ssdm",
+        "current_level": 2
+    },
+    {
+        "username": "celine",
+        "password": "$2b$12$mHoJvyhgSbuXLGEPIqD5peJ9pGb6GIZJ7n2ekmD1sTtMwo4HwPwmu"
+    },
+    {
+        "username": "yanis",
+        "password": "$2b$12$elHBQrwC.6ouj/ZlIvHX9OIL0wF6wP45V.LJLenmLFL7vBQmDPjyy"
+    },
+    {
+        "username": "yasmine",
+        "password": "$2b$12$Jq1xnllvnQo.d8M0hUZsrOxob/wBeLFg/VkYEi/6Hw5kUHgvIMVgC"
+    },
+    {
+        "username": "ina",
+        "password": "$2b$12$9gh0Jx1SjHCaZ3zvQBmbI.7etlh.vIbKFxIKLNelSwYvw8JtM6zM."
+    },
+    {
+        "username": "amal",
+        "password": "$2b$12$5fiCO2KDgh96z9lbNyc.seN9tQk994GOUjXGF6feotJSeF8PXP7Ru"
+    }
+]
